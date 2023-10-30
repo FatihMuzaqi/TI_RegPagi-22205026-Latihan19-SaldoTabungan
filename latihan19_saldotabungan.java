@@ -1,4 +1,10 @@
 package tipedata;
+/*
+NAMA : Achmad Fatih Muzaqi
+NIM : 22205026
+PRIDI : Teknik Informatika
+DESKRIPSI : program ini Menghitung Saldo Tabungan
+*/
 import java.text.DecimalFormat;
 import java.util.Scanner;
 public class latihan19_saldotabungan {
